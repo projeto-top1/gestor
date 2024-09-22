@@ -1,0 +1,67 @@
+  <style>
+  img{
+    width: 100px;
+    height: 100px;
+   border-radius: 50%;
+}
+   body {
+     background-color: black;
+     color: white;
+     line-height: 1,5;
+     border: solid;
+     width: 360px;
+     height: 630px;
+     box-shadow: 2px 2px 4px white;
+   }
+  h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px red;
+  }
+  div {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px red;
+  }
+  form {
+    display: grid;
+   font-size: 16; 
+    margin: 10px;
+    
+  }
+  label {
+    margin-bottom: 3px;
+    width: 190px;
+    height: 30px;
+  }
+  button { 
+    margin-bottom:15px;
+    width: 310px;
+    height: 40px;
+    background-color: green;
+    box-shadow: 2px 2px 4px white;
+    cursor: point;
+    
+    
+  }
+  input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 15px;
+    box-shadow: 2px 2px 4px red;
+  }
+  p {
+    display: grid;
+    background-color: black;
+    color: white;
+    width:120px;
+    height:30px;
+    text-align: center;
+    margin:  center;
+    box-shadow: 1px 1px 2px white;
+  }
